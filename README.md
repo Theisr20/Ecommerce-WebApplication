@@ -1,3 +1,3 @@
-# Ecommerce-WebApplication
+# ElectronicStore-WebApplication
 
 Ecommerce webApplication using Springboot !!
